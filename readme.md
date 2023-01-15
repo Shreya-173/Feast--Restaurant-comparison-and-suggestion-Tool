@@ -31,6 +31,7 @@ openpyxl [3.0.3]
 1. After choosing Restaurants selection, you would see the menu page for Restaurants selection
 ![](Images/Restaurant.jpg)
 2. Choose a way to filter the restaurant information
+
 *Search by Restaurant Name: allow user to enter a name of a restaurant and return all matches
 ![](Images/SearchByName.jpg)
 * Search by Food Type: allow user to enter food type such as Chinese and return all matches
