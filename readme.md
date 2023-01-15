@@ -27,12 +27,12 @@ openpyxl [3.0.3]
 1. After install all the necessary package, click on “group_4_Feast_app.py” to start the app
 2. At main menu you could choose 3 function or enter 4 to exit
 ![](Images/main%20menu.jpg)
+
 ⚫ Restaurants Selection
 1. After choosing Restaurants selection, you would see the menu page for Restaurants selection
 ![](Images/Restaurant.jpg)
 2. Choose a way to filter the restaurant information
-
-*Search by Restaurant Name: allow user to enter a name of a restaurant and return all matches
+* Search by Restaurant Name: allow user to enter a name of a restaurant and return all matches
 ![](Images/SearchByName.jpg)
 * Search by Food Type: allow user to enter food type such as Chinese and return all matches
 ![](Images/SearchByFoodType.jpg)
