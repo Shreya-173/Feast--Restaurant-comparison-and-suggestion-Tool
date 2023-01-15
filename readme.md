@@ -31,11 +31,10 @@ openpyxl [3.0.3]
 1. After choosing Restaurants selection, you would see the menu page for Restaurants selection
 ![](Images/Restaurant.jpg)
 2. Choose a way to filter the restaurant information
-
 *Search by Restaurant Name: allow user to enter a name of a restaurant and return all matches
 ![](Images/SearchByName.jpg)
 * Search by Food Type: allow user to enter food type such as Chinese and return all matches
-![](Images/SearchByFoodType.jpg]
+![](Images/SearchByFoodType.jpg)
 * Search by Predefined Filters: allow user to search with advance filter
 ![](Images/Predefined%20Filters.jpg)
 All three searches would ask user to type in the number of rows they like to display
