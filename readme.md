@@ -5,6 +5,7 @@ Feast app provides restaurant’s information nearby CMU, allowing user to compa
 Windows10
 Python 3.7 above
 Manually download the packages list as follow, or use the requirement.txt to download them at once
+
 Package name [version]:
 
 urllib3 [1.26.4]
