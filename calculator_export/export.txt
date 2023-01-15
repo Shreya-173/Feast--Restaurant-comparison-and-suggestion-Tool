@@ -1,0 +1,17 @@
+         Date     Sex  Weight  Height  Age  Activity level  CalorieRecom
+0  10-08-2022  Female     100     183   23  Lightly active    2568.15625
+1  10-10-2022  Female      50     160   23  Lightly active    1683.00000
+2022-10-10 04:29:59.486861
+         Date                      Food  Weight(g)        kCal
+0  10-09-2022  40% Bran Flakes,Kello...        104  330.158730
+1  10-09-2022  40% Bran Flakes,Kello...         10   31.746032
+2  10-09-2022  40% Bran Flakes,Kello...         10   31.746032
+3  10-10-2022      40% Bran Flakes,Post         10   31.746032
+4  10-10-2022      40% Bran Flakes,Post        100  317.460317
+2022-10-10 04:30:17.923616
+         Date   Sex  Weight  Height  Age  Activity level  CalorieRecom
+0  10-08-2022  Male      65     170   24  Lightly active     2196.5625
+1  10-09-2022  Male      65     170   23  Lightly active     2203.4375
+2  10-10-2022  Male      65     170   24  Lightly active     2196.5625
+3  10-12-2022  Male      56     170   23  Lightly active     2079.6875
+2022-10-11 04:48:58.612579

@@ -1,0 +1,264 @@
+restaurant_id,restaurant_type,url,restaurant_name,restaurant_subtype,Rating,address,ratings_numbers,comments,delivery_time,delivery_fee,avg_price
+0,American,https://www.doordash.com/convenience/store/dashmart-pittsburgh-1301635/,DashMart,Desserts,,,,,,,
+1,American,https://www.doordash.com/store/the-cheesecake-factory-pittsburgh-263102/,The Cheesecake Factory,Desserts,4.2,,,,,,19.51954787234036
+2,American,https://www.doordash.com/store/chick-fil-a-pittsburgh-1528290/,Chick-fil-A,American,,1175 Freeport Road,3600.0,"{'Fruit': 1, 'Cup': 1}",,,4.9344736842105235
+3,American,https://www.doordash.com/store/popeyes-pittsburgh-262019/,Popeyes,Chicken,3.3,,5000.0,{},,,15.040123456790129
+4,American,https://www.doordash.com/store/mcdonald%27s-pittsburgh-688160/,McDonald's,American,4.8,,8700.0,{},,,3.727142857142857
+5,American,https://www.doordash.com/store/wendy%27s-pittsburgh-1313459/,Wendy's,Desserts,,,,,,,3.7551428571428556
+6,American,https://www.doordash.com/store/wings-over-pittsburgh-782958/,Wings Over,American,5.0,,4800.0,{},,,32.14927710843373
+7,American,https://www.doordash.com/store/noodles-%26-company-pittsburgh-379411/,Noodles & Company,American,5.0,,4100.0,{},,,3.9331578947368406
+8,American,https://www.doordash.com/store/roots-natural-kitchen-pittsburgh-682949/,Roots Natural Kitchen,American,5.0,,3700.0,{},,,12.387837837837834
+9,American,https://www.doordash.com/store/jj-poke-bowl-pittsburgh-1073941/,JJ Poke Bowl,Poke,5.0,,1600.0,{},,,8.266923076923073
+10,American,https://www.doordash.com/store/ihop-pittsburgh-784850/,IHOP,American,5.0,,3500.0,{},,,12.29818181818182
+11,American,https://www.doordash.com/store/el-jefe%27s-taqueria-pittsburgh-23510935/,El Jefe's Taqueria,Mexican,,3807 Forbes Avenue,227.0,{},34 min,0.0,6.296296296296297
+12,American,https://www.doordash.com/store/totopo-mexican-kitchen-and-bar-pittsburgh-249016/,Totopo Mexican Kitchen and Bar,American,5.0,,1900.0,{},,,9.198076923076936
+13,American,https://www.doordash.com/convenience/store/target-grocery-pittsburgh-2627903/,Target Grocery,Grocery,,,,,,,
+14,American,https://www.doordash.com/store/insomnia-cookies-pittsburgh-23136764/,Insomnia Cookies,Desserts,,,,,,,9.688888888888888
+15,American,https://www.doordash.com/store/franks-pizza-%26-chicken-millvale-249678/,Franks Pizza & Chicken,Chicken,5.0,,3200.0,{},,,11.306542056074766
+16,American,https://www.doordash.com/store/penn-station-pittsburgh-1474039/,Penn Station,Sandwiches,,,311.0,{},,,7.405735294117654
+17,American,https://www.doordash.com/store/smashed-waffle-pittsburgh-2303026/,Smashed Waffle,American,,,600.0,{},,,6.1388118811881185
+18,American,https://www.doordash.com/store/kfc-bellevue-1129209/,KFC,American,5.0,,1300.0,{},,,11.820519480519486
+19,American,https://www.doordash.com/store/tooktook98-pittsburgh-519682/,TookTook98,Thai,5.0,,1700.0,{},,,9.041632653061233
+20,American,https://www.doordash.com/store/the-porch-pittsburgh-249248/,The Porch,American,,,1000.0,{},,,12.028301886792454
+21,American,https://www.doordash.com/store/the-halal-guys-pittsburgh-23040200/,The Halal Guys,Lunch,,,329.0,{},,,8.232181818181827
+22,American,https://www.doordash.com/store/bar-louie-pittsburgh-915812/,Bar Louie,American,5.0,,1600.0,{},,,12.559183673469388
+23,American,https://www.doordash.com/store/treats-and-beans-pittsburgh-803950/,Treats and beans,American,5.0,,780.0,{},,,8.23106796116504
+24,American,https://www.doordash.com/store/five-guys-burgers-%26-fries-pittsburgh-293718/,Five Guys Burgers & Fries,Breakfast,4.2,,2200.0,{},,,8.138571428571424
+25,American,https://www.doordash.com/store/dibella%27s-subs-pittsburgh-605192/,DiBella's Subs,Salad,5.0,,950.0,{},,,9.977999999999994
+26,American,https://www.doordash.com/store/sheetz-glenshaw-2458602/,Sheetz,American,,973 William Flinn Highway,322.0,{},,,3.8235266821345815
+27,American,https://www.doordash.com/store/dairy-queen-pittsburgh-843890/,Dairy Queen,American,,,710.0,{},,,6.9334482758620695
+28,American,https://www.doordash.com/store/square-cafe-pittsburgh-1858175/,Square Cafe,Breakfast,,,1.0,{},,,11.603333333333333
+29,American,https://www.doordash.com/store/atria%27s-restaurant-pittsburgh-255455/,Atria's Restaurant,Takeout,5.0,,1400.0,{},,,13.891666666666667
+30,American,https://www.doordash.com/store/cold-stone-creamery-pittsburgh-23540556/,Cold Stone Creamery,Bakery,,,84.0,{},,,7.926666666666667
+31,American,https://www.doordash.com/store/arby%27s-pittsburgh-852150/,Arby's,American,,,980.0,{},,,5.162368421052633
+32,American,https://www.doordash.com/store/hardee%27s-pittsburgh-23191343/,Hardee's,American,,,243.0,{},,,2.9699999999999998
+33,American,https://www.doordash.com/store/j%26j%27s-family-restaurant-pittsburgh-896373/,J&J's Family Restaurant,American,5.0,,1200.0,{},,,7.960845070422537
+34,American,https://www.doordash.com/store/burger-king-etna-902739/,Burger King,Burgers,5.0,,1700.0,{},,,2.456
+35,American,https://www.doordash.com/store/bulldawg%27s-west-view-896567/,BullDawg's,American,,,1100.0,{},,,11.19927536231884
+36,American,https://www.doordash.com/store/the-crack%27d-egg-pittsburgh-255486/,The Crack'd Egg,American,5.0,,540.0,{},,,8.9953125
+37,American,https://www.doordash.com/store/emiliano%27s-mexican-restaurant-pittsburgh-248889/,Emiliano's Mexican Restaurant,American,4.7,,1300.0,{},,,18.367368421052635
+38,American,https://www.doordash.com/store/the-yard-gastropub-pittsburgh-249317/,The Yard Gastropub,American,5.0,,700.0,{},,,13.120769230769238
+39,American,https://www.doordash.com/store/burgatory-pittsburgh-249426/,Burgatory,Chicken,4.3,,3900.0,{},,,10.100632911392406
+40,American,https://www.doordash.com/convenience/store/7-eleven-pittsburgh-738860/,7-Eleven,Convenience,,,,,,,
+41,American,https://www.doordash.com/store/capriotti%27s-sandwich-shop-pittsburgh-1725339/,Capriotti's Sandwich Shop,American,,,367.0,{},,,5.857647058823533
+42,American,https://www.doordash.com/convenience/store/dollar-general-pittsburgh-2279485/,Dollar General,Convenience,,,,,,,
+43,American,https://www.doordash.com/store/primanti-bros-pittsburgh-259611/,Primanti Bros,Pizza,5.0,,980.0,{},,,10.613728813559321
+44,American,https://www.doordash.com/store/tupelo-honey-pittsburgh-2862935/,Tupelo Honey,American,,,156.0,{},,,13.24477611940298
+45,American,https://www.doordash.com/store/mulligan%27s-sports-bar-and-grill-west-mifflin-303802/,Mulligan's Sports Bar and Grill,American,,,820.0,"{'Funnel': 1, 'Cake': 1, 'Fries': 1}",,,9.220158730158735
+46,American,https://www.doordash.com/store/chicken-wing-co.-pittsburgh-23602228/,Chicken Wing Co.,American,,,79.0,{},,,13.6325
+47,American,https://www.doordash.com/store/nancy%27s-revival-pittsburgh-248832/,Nancy's Revival,American,5.0,,3.0,{},,,7.895205479452055
+48,American,https://www.doordash.com/store/city-works-pittsburgh-248968/,City Works,American,5.0,,960.0,{},,,28.69438596491228
+49,American,https://www.doordash.com/store/park-pizza-%26-cream-pittsburgh-248715/,Park Pizza & Cream,Pizza,,,780.0,{},,,6.686619718309859
+50,American,https://www.doordash.com/store/brighton-hot-dog-shoppe-pittsburgh-248904/,Brighton Hot Dog Shoppe,Fast Food,,,180.0,{},,,3.9105882352941164
+51,American,https://www.doordash.com/store/subway-pittsburgh-380624/,Subway,Sandwiches,5.0,,,,,,
+52,American,https://www.doordash.com/store/dave-%26-buster%27s-homestead-1227036/,Dave & Buster's,Burgers,,,410.0,{},,,11.402631578947373
+53,American,https://www.doordash.com/store/cherries-diner-pittsburgh-991261/,Cherries Diner,American,5.0,,630.0,{},,,6.531578947368422
+54,American,https://www.doordash.com/store/cafetano-pgh-pittsburgh-2803497/,Cafetano PGH,Breakfast,,,159.0,{},,,7.710973451327433
+55,American,https://www.doordash.com/store/atria%27s-restaurant-pittsburgh-279290/,Atria's Restaurant,Takeout,,,431.0,{},,,16.350877192982455
+56,American,https://www.doordash.com/store/the-nook-pittsburgh-23120886/,The Nook,Mexican,,,82.0,{},,,9.028409090909092
+57,American,https://www.doordash.com/store/shady-grove-pittsburgh-249025/,Shady Grove,Mexican,,,0.0,{},,,13.398058252427184
+58,American,https://www.doordash.com/store/t%C3%A4ko-pittsburgh-22978269/,täko,American,,,75.0,"{'Mushroom': 1, 'Tacos': 1}",,,
+59,American,https://www.doordash.com/store/vocelli-pizza-pittsburgh-605337/,Vocelli Pizza,Pizza,3.0,,1900.0,{},,,19.664051724137927
+60,American,https://www.doordash.com/store/stoke%27s-grill-pittsburgh-1531667/,Stoke's Grill,American,,,198.0,{},,,11.15876288659794
+61,American,https://www.doordash.com/store/emiliano%27s-mexican-restaurant-pittsburgh-708003/,Emiliano's Mexican Restaurant,American,,,433.0,{},,,18.799595959595965
+62,American,https://www.doordash.com/convenience/store/cvs-pittsburgh-1232203/,CVS,Convenience,,,,,,,
+63,American,https://www.doordash.com/store/mrbeast-burger-homestead-2306646/,MrBeast Burger,Burgers,,,223.0,{},,,9.878461538461542
+64,American,https://www.doordash.com/store/bad-azz-bbq-pittsburgh-23133320/,BAD AZZ BBQ,American,,,94.0,{},,,11.961538461538462
+65,American,https://www.doordash.com/store/mevlana-mediterranean%26rumi-grill-house-pittsburgh-941880/,MEVLANA MEDITERRANEAN&Rumi grill house,Pizza,5.0,,278.0,{},,,13.284242424242427
+66,American,https://www.doordash.com/store/the-pretzel-shop-pittsburgh-576990/,The Pretzel Shop,American,,,510.0,{},,,3.401829268292682
+67,American,https://www.doordash.com/store/rita%27s-italian-ice-pittsburgh-248660/,Rita's Italian Ice,Desserts,,,,,,,6.401666666666667
+68,American,https://www.doordash.com/store/walnut-grill-pittsburgh-249049/,Walnut Grill,Gluten-Free,,,800.0,"{'California': 1, 'Turkey': 1, 'Wrap': 1}",,,14.409638554216867
+69,American,https://www.doordash.com/store/macs-%26-stacks-pittsburgh-1611818/,Macs & Stacks,Takeout,,,192.0,{},,,11.414285714285715
+70,American,https://www.doordash.com/store/pardon-my-cheesesteak-pittsburgh-23219219/,Pardon My Cheesesteak,Sandwiches,,,68.0,{},,,8.190000000000001
+71,American,https://www.doordash.com/store/maldini%27s-pizza-swissvale-602040/,Maldini's Pizza,Salad,,,114.0,{},,,10.466465517241382
+72,American,https://www.doordash.com/convenience/store/7-eleven-pittsburgh-1766093/,7-Eleven,Convenience,,,,,,,
+73,American,https://www.doordash.com/convenience/store/dollar-general-homestead-2298813/,Dollar General,Convenience,,,,,,,
+74,American,https://www.doordash.com/store/zoup%21-eatery-pittsburgh-279053/,Zoup! Eatery,Soup,,,255.0,{},,,9.530434782608694
+75,American,https://www.doordash.com/store/carmi-soul-food-pittsburgh-2853976/,Carmi Soul Food,Soup,,,69.0,{},,,11.244000000000002
+76,American,https://www.doordash.com/store/double-wide-grill-pittsburgh-303820/,Double Wide Grill,American,,,86.0,{},,,9.917282608695654
+77,American,https://www.doordash.com/store/chai-khana-pittsburgh-23312377/,Chai khana,American,,,53.0,{},,,8.05314285714286
+78,American,https://www.doordash.com/store/buster%27s-american-kitchen-homestead-1226911/,Buster's American Kitchen,American,,,166.0,{},,,11.554918032786894
+79,American,https://www.doordash.com/store/sub-zero-nitrogen-ice-cream-pittsburgh-980436/,Sub Zero Nitrogen Ice Cream,Desserts,,,,,,,
+80,American,https://www.doordash.com/store/fogo-de-ch%C3%A3o-pittsburgh-515012/,Fogo de Chão,Chicken,5.0,,262.0,{},,,30.42622950819672
+81,American,https://www.doordash.com/convenience/store/dgx-pittsburgh-2319379/,DGX,Convenience,,,,,,,
+82,American,https://www.doordash.com/store/hard-rock-cafe-pittsburgh-1390127/,Hard Rock Cafe,Desserts,,,,,,,16.784827586206905
+83,American,https://www.doordash.com/store/secret-sauce-bbq-pittsburgh-1326732/,Secret Sauce BBQ,Barbecue,,,215.0,{},,,14.346774193548388
+84,American,https://www.doordash.com/store/uno-pizzeria-%26-grill-homestead-249348/,Uno Pizzeria & Grill,Takeout,,,530.0,{},,,18.872592592592508
+85,American,https://www.doordash.com/store/dunkin%27-pittsburgh-716613/,Dunkin',Desserts,,,,,,,4.945897435897443
+86,American,https://www.doordash.com/store/august-henry%27s-burger-bar-pittsburgh-248632/,August Henry's Burger Bar,Burgers,,,247.0,{},,,12.36
+87,American,https://www.doordash.com/store/antonio%27s-pizzeria-pittsburgh-23078471/,Antonio's Pizzeria,Food & Drink,,,44.0,{},,,12.965725190839688
+88,American,https://www.doordash.com/store/shiloh-gastro-pittsburgh-23389288/,SHILOH GASTRO,American,,,34.0,{},,,13.578125
+89,American,https://www.doordash.com/store/ember-smoked-bbq-homestead-23447792/,Ember Smoked BBQ,Burgers,,,28.0,{},,,11.067567567567568
+90,American,https://www.doordash.com/store/joe%27s-crab-shack-pittsburgh-262007/,Joe's Crab Shack,Mexican,5.0,,710.0,{},,,26.756111111111082
+91,American,https://www.doordash.com/store/quik-it-chicken-pittsburgh-417039/,Quik-It Chicken,Chicken,,,770.0,{},,,9.44869565217391
+92,American,https://www.doordash.com/store/rock-bottom-restaurant-and-brewery-homestead-279009/,Rock Bottom Restaurant and Brewery,American,,,1000.0,{},,,21.012580645161304
+93,American,https://www.doordash.com/store/the-modern-cafe-pittsburgh-590993/,The Modern Cafe,American,,,257.0,{},,,10.243406593406593
+94,American,https://www.doordash.com/store/mr-egg%27s-kitchen-pittsburgh-1086642/,Mr Egg's Kitchen,American,,,153.0,{},,,8.29825
+95,American,https://www.doordash.com/store/fresh-set-homestead-1506316/,Fresh Set,American,,,136.0,{},,,11.947142857142854
+96,American,https://www.doordash.com/store/philly-pretzel-factory-pittsburgh-769500/,Philly Pretzel Factory,American,,,160.0,{},,,15.57857142857143
+97,American,https://www.doordash.com/store/jimmy-john%27s-west-homestead-1265721/,Jimmy John's,American,,,126.0,{},,,10.867051282051277
+98,American,https://www.doordash.com/store/wings-out-homestead-2474489/,Wings Out,Chicken,,,75.0,{},,,7.430526315789474
+99,American,https://www.doordash.com/store/packed-bowls-by-wiz-khalifa-pittsburgh-23400069/,Packed Bowls by Wiz Khalifa,American,,,23.0,{},,,6.761904761904762
+100,American,https://www.doordash.com/store/guy-fieri%27s-flavortown-kitchen-pittsburgh-1164730/,Guy Fieri's Flavortown Kitchen,Takeout,,,344.0,{},,,10.169259259259263
+101,American,https://www.doordash.com/store/french-toast-feast-pittsburgh-1489185/,French Toast Feast,Breakfast,,,107.0,{},,,8.882439024390244
+102,American,https://www.doordash.com/store/pasta-paradox-pittsburgh-23541771/,Pasta Paradox,Chicken,,,17.0,{},,,11.452
+103,American,https://www.doordash.com/store/frankie-bunz-pittsburgh-720907/,Frankie Bunz,American,,,129.0,{},,,6.56
+104,American,https://www.doordash.com/store/rotisserie-roast-pittsburgh-1205032/,Rotisserie Roast,Chicken,4.5,,161.0,{},,,8.965909090909092
+105,American,https://www.doordash.com/store/beta-bites-pittsburgh-2096632/,Beta Bites,American,,,0.0,{},,,10.760512820512826
+106,American,https://www.doordash.com/store/morton%27s-the-steakhouse-pittsburgh-937787/,Morton's The Steakhouse,Seafood,,,121.0,{},,,32.23647058823528
+107,American,https://www.doordash.com/store/emporio%3A-a-meatball-joint-pittsburgh-249351/,Emporio: A Meatball Joint,American,3.7,,810.0,{},,,8.492399999999998
+108,American,https://www.doordash.com/store/saucy%27s-tenders-pittsburgh-23647856/,Saucy's Tenders,American,,,11.0,{},,,16.460333333333338
+109,American,https://www.doordash.com/store/muddy-waters-oyster-bar-pittsburgh-591103/,Muddy Waters Oyster Bar,Seafood,,,135.0,{},,,20.057142857142857
+110,American,https://www.doordash.com/store/brewdog-pittsburgh-883592/,BrewDog,Chicken,,,373.0,{},,,13.49555555555556
+111,American,https://www.doordash.com/convenience/store/speedway-mckees-rocks-22962935/,Speedway,Convenience,,,,,,,
+112,American,https://www.doordash.com/store/og-chicken-and-waffles-pittsburgh-1478409/,OG Chicken and Waffles,American,,,175.0,{},,,6.923333333333337
+113,American,https://www.doordash.com/store/mad-chicken-pittsburgh-24227743/,Mad Chicken,Chicken,,,16.0,{},,,7.672394366197188
+114,American,https://www.doordash.com/store/mccormick-%26-schmick%27s-pittsburgh-412616/,McCormick & Schmick's,Salad,,,289.0,{},,,22.210175438596483
+115,American,https://www.doordash.com/store/brekkie-bagels-pittsburgh-23022810/,Brekkie Bagels,Convenience,,,,,,,5.933076923076923
+116,American,https://www.doordash.com/store/fudge-farm-homestead-772172/,Fudge Farm,American,,,138.0,{},,,8.848484848484848
+117,American,https://www.doordash.com/store/thicc-milkshakes-pittsburgh-23631136/,Thicc Milkshakes,American,,,138.0,{},,,7.707499999999999
+118,American,https://www.doordash.com/store/getgo-pittsburgh-944881/,GetGo,Convenience,,,,,,,4.354253393665158
+119,American,https://www.doordash.com/store/eleven-pittsburgh-1873377/,Eleven,Burgers,,,2.0,{},,,24.441176470588236
+120,American,https://www.doordash.com/store/super-mega-dilla-pittsburgh-23536971/,Super Mega Dilla,American,,,2.0,{},,,5.5673076923076925
+121,American,https://www.doordash.com/store/ava%27s-fried-chicken-pittsburgh-943695/,Ava's Fried Chicken,Healthy,,,227.0,{},,,8.317272727272734
+122,American,https://www.doordash.com/store/betsy%27s-ice-cream-pittsburgh-886117/,Betsy's Ice Cream,Desserts,,,,,,,7.0
+123,American,https://www.doordash.com/store/hyde-park-prime-steakhouse-pittsburgh-943173/,Hyde Park Prime Steakhouse,American,,,36.0,{},,,40.57096774193548
+124,American,https://www.doordash.com/store/troomy-eatz-mckees-rocks-23235598/,Troomy Eatz,Chicken,,,21.0,{},,,10.0
+125,American,https://www.doordash.com/store/hatch-house-pittsburgh-23069927/,Hatch House,American,,,19.0,{},,,6.657894736842105
+126,American,https://www.doordash.com/store/bbq-ribs-co.-pittsburgh-966668/,BBQ Ribs Co.,American,,,210.0,{},,,11.927500000000007
+127,American,https://www.doordash.com/store/twisted-tenders-homestead-1375361/,Twisted Tenders,Chicken,,,166.0,{},,,20.942295081967213
+128,American,https://www.doordash.com/store/snapback-chicken-tenders-and-mac-pittsburgh-23135339/,SnapBack Chicken Tenders And Mac,Chicken,,,10.0,{},,,9.125135135135139
+129,American,https://www.doordash.com/store/a%27pizza-badamo-pittsburgh-492516/,A'Pizza Badamo,American,,,1500.0,{},,,10.552083333333334
+130,American,https://www.doordash.com/store/the-american-dream-kitchen-pittsburgh-23040838/,The American Dream Kitchen,American,,,16.0,{},,,10.077500000000006
+131,American,https://www.doordash.com/store/the-foundry-table-%26-tap-pittsburgh-248931/,The Foundry Table & Tap,American,,,108.0,{},,,16.73469387755102
+132,American,https://www.doordash.com/store/al%27s-fish-%26-chicken-pittsburgh-24030663/,Al's Fish & Chicken,American,,,108.0,{},,,19.599999999999955
+133,American,https://www.doordash.com/store/hummus-pittsburgh-pittsburgh-1542973/,Hummus Pittsburgh,Mediterranean,,,58.0,{},,,9.438536585365854
+134,American,https://www.doordash.com/convenience/store/big-lots-munhall-24033747/,Big Lots,Other,,,,,,,
+135,American,https://www.doordash.com/store/get-loaded-homestead-23194103/,Get Loaded,American,,,58.0,{},,,6.7500000000000036
+136,American,https://www.doordash.com/store/wing-szn-pittsburgh-22986968/,Wing SZN,American,,,24.0,{},,,9.931176470588241
+137,American,https://www.doordash.com/store/wild-wild-wings-pittsburgh-2535318/,Wild Wild Wings,American,,,16.0,{},,,13.404255319148936
+138,American,https://www.doordash.com/store/church-brew-works-pittsburgh-249082/,Church Brew Works,American,,,53.0,{},,,15.880588235294116
+139,American,https://www.doordash.com/store/t%27s-restaurant-and-lounge-swissvale-560592/,T's Restaurant and Lounge,Takeout,,,256.0,{},,,10.103561643835624
+140,American,https://www.doordash.com/store/miss-mazy%27s-amazin%27-chicken-pittsburgh-23069781/,Miss Mazy's Amazin' Chicken,Chinese,,,16.0,{},,,7.844827586206897
+141,American,https://www.doordash.com/store/wings-wings-wings-pittsburgh-23812852/,Wings Wings Wings,American,,,16.0,{},,,9.654878048780494
+142,American,https://www.doordash.com/store/country-southern-diner-pittsburgh-23038944/,Country Southern Diner,Southern,,,12.0,{},,,9.812222222222228
+143,American,https://www.doordash.com/store/sultry-f%26b-pittsburgh-24125071/,Sultry F&B,American,,,12.0,{},,,13.035714285714286
+144,American,https://www.doordash.com/store/beauty-%26-the-burger-pittsburgh-22954033/,Beauty & the Burger,Burgers,,,12.0,{},,,10.868421052631579
+145,American,https://www.doordash.com/store/back-to-the-foodture-pittsburgh-2189525/,Back to the Foodture,American,,,30.0,{},,,7.4184269662921345
+146,American,https://www.doordash.com/store/mac-n-cheese-shack-pittsburgh-22970623/,Mac n Cheese Shack,American,,,11.0,{},,,7.839285714285714
+147,American,https://www.doordash.com/store/station-pittsburgh-890601/,Station,Sandwiches,,,21.0,{},,,
+148,American,https://www.doordash.com/store/dirty-birds-chicken-pittsburgh-1783380/,Dirty Birds Chicken,Breakfast,,,70.0,{},,,11.071428571428571
+149,American,https://www.doordash.com/store/burgasm-pittsburgh-22979618/,Burgasm,American,,,70.0,{},,,6.931818181818182
+150,American,https://www.doordash.com/store/chicken-sammy%27s-homestead-1530543/,Chicken Sammy's,American,,,44.0,{},,,11.143333333333333
+151,American,https://www.doordash.com/store/burger-addict-pittsburgh-23966460/,Burger Addict,American,,,44.0,{},,,9.418571428571434
+152,American,https://www.doordash.com/store/bella-pizza-pittsburgh-23750962/,Bella Pizza,American,,,44.0,{},,,16.36052631578948
+153,American,https://www.doordash.com/store/burger-slob-pittsburgh-23623931/,Burger Slob,American,,,44.0,{},,,11.85676470588235
+154,American,https://www.doordash.com/store/the-shawarma-treatment-pittsburgh-24099178/,The Shawarma Treatment,Middle Eastern,,,44.0,{},,,11.685555555555554
+155,American,https://www.doordash.com/store/abbys-jamaican-and-american-fusion-pittsburgh-1482167/,Abbys Jamaican And American Fusion,Caribbean,,,44.0,{},,,11.5
+156,American,https://www.doordash.com/store/crave-burger-pittsburgh-2533768/,Crave Burger,Fast Food,,,15.0,{},,,7.980769230769231
+157,American,https://www.doordash.com/store/cluck-university-pittsburgh-23812844/,Cluck University,American,,,15.0,{},,,9.973870967741941
+158,American,https://www.doordash.com/store/btch-don%27t-grill-my-cheese-pittsburgh-1489100/,Btch Don't Grill My Cheese,Breakfast,,,38.0,{},,,7.322285714285717
+159,American,https://www.doordash.com/store/supermarket-bagels-pittsburgh-1488872/,Supermarket Bagels,American,,,14.0,{},,,4.541666666666667
+160,American,https://www.doordash.com/store/philly-fresh-cheesesteaks-pittsburgh-1488878/,Philly Fresh Cheesesteaks,American,,,10.0,{},,,8.679487179487179
+161,American,https://www.doordash.com/store/coach%27s-bottleshop-%26-grille-pittsburgh-255461/,Coach's Bottleshop & Grille,American,3.0,,530.0,{},,,10.33507042253522
+162,American,https://www.doordash.com/store/mumbai-dessert-shack-pittsburgh-23557924/,Mumbai Dessert Shack,Indian,,,530.0,{},,,8.990000000000002
+163,American,https://www.doordash.com/store/dank-bites-pittsburgh-23623076/,Dank Bites,American,,,530.0,{},,,10.09769230769231
+164,American,https://www.doordash.com/store/grilled-%26-cheesy-pittsburgh-1492682/,Grilled & Cheesy,Soup,,,17.0,{},,,6.666875
+165,American,https://www.doordash.com/store/benafactor%E2%80%99s-on-8th-homestead-24189124/,Benafactor’s On 8th,Breakfast,,,17.0,{},,,9.970555555555556
+166,American,https://www.doordash.com/store/twenty-fifth-street-bar-pittsburgh-23162196/,Twenty Fifth Street Bar,Food & Drink,,,17.0,{},,,11.169024390243907
+167,American,https://www.doordash.com/store/firebelly-wings-pittsburgh-2535082/,Firebelly Wings,American,,,17.0,{},,,14.429487179487179
+168,American,https://www.doordash.com/store/burgh%27ers-pittsburgh-249306/,Burgh'ers,American,,,10.0,{},,,9.322463768115941
+169,American,https://www.doordash.com/store/standard-market-%26-pint-house-pittsburgh-1225308/,Standard Market & Pint House,Sandwiches,,,,,,,16.085714285714285
+170,American,https://www.doordash.com/store/joe-and-pie-cafe-and-pizzeria-pittsburgh-1856720/,Joe and pie cafe and pizzeria,Pizza,,,22.0,{},,,14.225687022900726
+171,American,https://www.doordash.com/store/better-burger---vegetarian-burgers-pittsburgh-23966279/,Better Burger - Vegetarian Burgers,American,,,22.0,{},,,10.030000000000005
+172,American,https://www.doordash.com/store/bruster%27s-real-ice-cream-pittsburgh-2422898/,Bruster's Real Ice Cream,Desserts,,,,,,,13.63377358490566
+173,American,https://www.doordash.com/store/dive-bar-and-grille-pittsburgh-24204459/,Dive Bar and Grille,American,,,22.0,{},,,13.555752212389368
+174,American,https://www.doordash.com/store/burger-goddess-pittsburgh-23056009/,Burger Goddess,American,,,22.0,{},,,11.369499999999999
+175,American,https://www.doordash.com/store/brooklyn-calzones-pittsburgh-22985943/,Brooklyn Calzones,Salad,,,22.0,{},,,11.960416666666665
+176,American,https://www.doordash.com/store/mariah-carey%27s-cookies-west-homestead-1330572/,Mariah Carey's Cookies,Chicken,,,26.0,{},,,11.989999999999997
+177,American,https://www.doordash.com/store/chick-licken-wings-pittsburgh-22970610/,Chick Licken Wings,American,,,26.0,{},,,7.978260869565218
+178,American,https://www.doordash.com/store/the-last-dessert-homestead-2097434/,The Last Dessert,American,,,,,,,9.057692307692307
+179,American,https://www.doordash.com/store/the-commoner-pittsburgh-249176/,The Commoner,American,,,12.0,{},,,7.6521739130434785
+180,American,https://www.doordash.com/store/niko%27s-square-pizza-pittsburgh-1529137/,niko's square pizza,Italian,,,12.0,{},,,7.515555555555555
+181,American,https://www.doordash.com/store/thrilled-cheese-pittsburgh-23446837/,Thrilled Cheese,Sandwiches,,,12.0,{},,,6.514705882352941
+182,American,https://www.doordash.com/store/nicky%27s-thai-kitchen-pittsburgh-591066/,Nicky's Thai Kitchen,Thai,,,77.0,{},,,12.490983606557378
+183,American,https://www.doordash.com/store/catering-by-boston-market-pittsburgh-23709751/,Catering by Boston Market,American,,,,,,,52.73903225806453
+184,American,https://www.doordash.com/store/tim%E2%80%99s-corner-market-pittsburgh-1614519/,Tim’s Corner Market,Grocery,,,,,,,4.58
+185,American,https://www.doordash.com/store/freaking-good-pizza-pittsburgh-22985761/,FREAKING GOOD PIZZA,Pizza,,,77.0,{},,,11.092000000000002
+186,American,https://www.doordash.com/store/arby%27s---market-fresh-pittsburgh-2183675/,Arby's - Market Fresh,Fast Food,,,,,,,
+187,American,https://www.doordash.com/store/arby%27s---market-fresh-swissvale-2129651/,Arby's - Market Fresh,Fast Food,,,,,,,
+188,American,https://www.doordash.com/store/psb-%26-grill-pittsburgh-24117012/,PSB & Grill,American,,,77.0,{},,,10.137499999999994
+189,American,https://www.doordash.com/store/kia%27s-kitchen-pittsburgh-23182151/,Kia's Kitchen,Sandwiches,,,77.0,{},,,9.615384615384615
+190,American,https://www.doordash.com/store/mcneilly-beer-pittsburgh-1057319/,McNeilly Beer,American,,,77.0,{},,,5.0
+191,American,https://www.doordash.com/store/street-food%27s-world-pittsburgh-677071/,Street Food's World,Mediterranean,,,77.0,{},,,7.757575757575758
+192,American,https://www.doordash.com/store/yolko-breakfast-caf%C3%A9-pittsburgh-1640930/,YOLKO Breakfast Café,Coffee,,,165.0,{},,,6.170833333333332
+193,American,https://www.doordash.com/store/sylvia%E2%80%99s-market-and-deli-pittsburgh-23792451/,Sylvia’s Market and Deli,Delis,,,165.0,{},,,6.563333333333332
+194,American,https://www.doordash.com/store/pure-in-heart-community-outreach-center-%22finger-licking-bbq-%26-soul-food%22-pittsburgh-1197006/,"Pure In Heart Community Outreach Center ""Finger Licking BBQ & Soul Food""",Caribbean,,,165.0,{},,,5.922391304347832
+195,American,https://www.doordash.com/store/paebeas-planet-co-pittsburgh-23547888/,Paebeas Planet Co,Breakfast,,,165.0,{},,,9.125
+196,American,https://www.doordash.com/store/soldi-lounge-homestead-22951031/,Soldi Lounge,Pizza,,,165.0,{},,,13.363636363636363
+197,American,https://www.doordash.com/store/juicy%27s-cheesesteaks-pittsburgh-2335940/,Juicy's Cheesesteaks,Sandwiches,,,55.0,{},,,10.416285714285713
+198,American,https://www.doordash.com/store/arby%27s---market-fresh-castle-shannon-2128471/,Arby's - Market Fresh,Fast Food,,,,,,,
+199,American,https://www.doordash.com/store/arby%27s---market-fresh-pittsburgh-2129846/,Arby's - Market Fresh,Fast Food,,,,,,,
+200,American,https://www.doordash.com/store/arby%27s---market-fresh-pittsburgh-2129690/,Arby's - Market Fresh,Fast Food,,,,,,,
+201,American,https://www.doordash.com/store/killer-wings-pittsburgh-23660558/,Killer Wings,Chicken,,,55.0,{},,,19.005384615384614
+202,American,https://www.doordash.com/store/perfection-at-its-best-catering-pittsburgh-23424761/,Perfection At its Best Catering,American,,,,,,,11.629166666666666
+203,American,https://www.doordash.com/store/catering-by-honeygrow-pittsburgh-23355662/,Catering by honeygrow,American,,,,,,,66.68512820512814
+204,American,https://www.doordash.com/store/arby%27s---market-fresh-pittsburgh-2130250/,Arby's - Market Fresh,Fast Food,,,,,,,
+205,American,https://www.doordash.com/store/hundred-miles-crepe-pittsburgh-23906278/,Hundred Miles Crepe,Breakfast,,,55.0,{},,,9.469583333333338
+206,American,https://www.doordash.com/store/mel%27s-melts-pittsburgh-23057157/,Mel's Melts,Comfort Food,,,55.0,{},,,9.435789473684212
+207,American,https://www.doordash.com/store/sally-ann%27s-pittsburgh-248892/,Sally Ann's,Coffee,,,120.0,{},,,
+208,American,https://www.doordash.com/store/the-loaded-vegan-homestead-2537750/,The Loaded Vegan,American,,,23.0,{},,,11.664814814814818
+209,American,https://www.doordash.com/store/vegan-burger-island-homestead-2097433/,Vegan Burger Island,American,,,88.0,{},,,11.731481481481486
+210,American,https://www.doordash.com/store/vegan-sugar-mama-homestead-2537899/,Vegan Sugar Mama,American,,,16.0,{},,,8.7
+211,Indian,https://www.doordash.com/store/all-india-pittsburgh-248778/,All India,Indian,,,2300.0,{},,,9.479867549668876
+212,Indian,https://www.doordash.com/store/mintt-indian-cuisine-pittsburgh-763745/,Mintt Indian Cuisine,Indian,5.0,,2100.0,{},,,
+213,Indian,https://www.doordash.com/store/thai-cottage-pittsburgh-249126/,Thai Cottage,Thai,5.0,,2300.0,{},,,10.801612903225811
+214,Indian,https://www.doordash.com/store/people%27s-indian-restaurant-pittsburgh-248812/,People's Indian Restaurant,Takeout,5.0,,2500.0,{},,,10.787727272727295
+215,Indian,https://www.doordash.com/store/choolaah-indian-bbq-pittsburgh-279748/,Choolaah Indian BBQ,Indian,5.0,,3000.0,{},,,7.28372881355932
+216,Indian,https://www.doordash.com/store/tooktook98-pittsburgh-519682/,TookTook98,Thai,5.0,,1700.0,{},,,9.041632653061233
+217,Indian,https://www.doordash.com/store/prince-of-india-restaurant-pittsburgh-1212690/,Prince of India Restaurant,Indian,5.0,,720.0,{},,,13.367049180327877
+218,Indian,https://www.doordash.com/store/senyai-thai-kitchen-pittsburgh-248961/,Senyai Thai Kitchen,Thai,5.0,,1200.0,{},,,12.690721649484535
+219,Indian,https://www.doordash.com/store/tamarind-pittsburgh-249169/,Tamarind,Indian,5.0,,1400.0,{},,,11.58654867256638
+220,Indian,https://www.doordash.com/store/taste-of-india-pittsburgh-2374804/,Taste of India,Pickup,,,371.0,{},,,12.3823076923077
+221,Indian,https://www.doordash.com/store/kabab-%26-curry-restaurant-%26-grill-pittsburgh-512325/,Kabab & Curry Restaurant & Grill,Indian,,,520.0,{},,,11.026666666666674
+222,Indian,https://www.doordash.com/store/siam-thai-restaurant-pittsburgh-249124/,Siam Thai Restaurant,Thai,,,357.0,{},,,9.46929824561403
+223,Indian,https://www.doordash.com/store/my-thai-pittsburgh-23919335/,My Thai,Thai,,,48.0,{},,,9.49314606741574
+224,Indian,https://www.doordash.com/store/thai-terrace-pittsburgh-248765/,Thai Terrace,Thai,,,780.0,{},,,7.356506024096388
+225,Indian,https://www.doordash.com/store/pad-thai-noodle-pittsburgh-23469769/,Pad Thai Noodle,Thai,,,36.0,{},,,12.649122807017545
+226,Indian,https://www.doordash.com/store/spice-affair-pittsburgh-249083/,Spice Affair,Indian,,,740.0,{},,,12.070422535211268
+227,Indian,https://www.doordash.com/store/pad-thai-noodle-pittsburgh-23473171/,Pad Thai Noodle,Thai,,,54.0,{},,,12.768888888888895
+228,Indian,https://www.doordash.com/store/bangal-kabab-house-and-restaurant-pittsburgh-1008060/,Bangal Kabab House and Restaurant,Halal,,,337.0,{},,,10.387132352941183
+229,Indian,https://www.doordash.com/store/coriander-india-grill-pittsburgh-248720/,Coriander India Grill,Indian,5.0,,1.0,{},,,11.651451612903234
+230,Indian,https://www.doordash.com/store/namaste-india-pittsburgh-352572/,Namaste India,Indian,,,680.0,{},,,8.141956521739134
+231,Indian,https://www.doordash.com/store/chai-khana-pittsburgh-23312377/,Chai khana,American,,,53.0,{},,,8.05314285714286
+232,Indian,https://www.doordash.com/store/street-noodle-pittsburgh-2377858/,Street Noodle,Chinese,,,95.0,{},,,11.13631578947369
+233,Indian,https://www.doordash.com/store/little-bangkok-in-the-strip-pittsburgh-249071/,Little Bangkok In the Strip,Thai,,,187.0,{},,,12.055555555555555
+234,Indian,https://www.doordash.com/store/namaste-momo-corner-pittsburgh-23689143/,Namaste Momo Corner,Asian,,,14.0,{},,,7.837826086956526
+235,Indian,https://www.doordash.com/store/vegan-seeds-of-india-pittsburgh-2640996/,Vegan Seeds of India,Vegan,,,27.0,{},,,10.801818181818179
+236,Indian,https://www.doordash.com/store/bombay-7-spice-pittsburgh-637411/,Bombay 7 Spice,Takeout,,,65.0,{},,,11.122189781021905
+237,Indian,https://www.doordash.com/store/hot-kurry-indian-dhaba-pittsburgh-2704886/,Hot Kurry Indian Dhaba,Other,,,,,,,13.883947368421056
+238,Indian,https://www.doordash.com/store/mezbaan-indian-cuisine-pittsburgh-637406/,Mezbaan Indian Cuisine,Takeout,,,202.0,{},,,10.787045454545463
+239,Indian,https://www.doordash.com/store/vegetarian-indian-cafe-pittsburgh-22983679/,Vegetarian Indian Cafe,Indian,,,202.0,{},,,13.317868852459023
+240,Indian,https://www.doordash.com/store/the-indian-tandoori-kitchen-pittsburgh-22983821/,The Indian Tandoori Kitchen,Indian,,,202.0,{},,,15.051224489795926
+241,Indian,https://www.doordash.com/store/curry-home-pittsburgh-2534020/,Curry Home,Indian,,,18.0,{},,,14.143170731707304
+242,Indian,https://www.doordash.com/store/street-noodles-pittsburgh-24228920/,Street Noodles,Noodles,,,18.0,{},,,9.916666666666666
+243,Indian,https://www.doordash.com/store/halal-indian-monsoon-pittsburgh-23557922/,Halal Indian Monsoon,Halal,,,18.0,{},,,20.128888888888895
+244,Indian,https://www.doordash.com/store/tikka-taj-pittsburgh-2705828/,Tikka Taj,Indian,,,18.0,{},,,12.826052631578944
+245,Indian,https://www.doordash.com/store/mumbai-dessert-shack-pittsburgh-23557924/,Mumbai Dessert Shack,Indian,,,18.0,{},,,8.990000000000002
+246,Indian,https://www.doordash.com/store/the-indian-spice-palace-pittsburgh-22983626/,The Indian Spice Palace,Indian,,,10.0,{},,,19.344838709677425
+247,Indian,https://www.doordash.com/store/badri%27s-biryani-bar-pittsburgh-22983760/,Badri's Biryani Bar,Indian,,,10.0,{},,,16.314324324324332
+248,Indian,https://www.doordash.com/store/matchstick-masala-pittsburgh-2559807/,Matchstick Masala,Indian,,,10.0,{},,,14.94476190476189
+249,Indian,https://www.doordash.com/store/indian-pizza-snob-pittsburgh-22983776/,Indian Pizza Snob,Indian,,,10.0,{},,,25.03347826086957
+250,Indian,https://www.doordash.com/store/plant-based-indian-pittsburgh-24019856/,Plant-Based Indian,Indian,,,10.0,{},,,12.214782608695652
+251,Indian,https://www.doordash.com/store/united-kitchens-of-india-pittsburgh-24107345/,United Kitchens of India,Indian,,,10.0,{},,,13.795250000000001
+252,Indian,https://www.doordash.com/store/mystic-naan-pittsburgh-24223541/,Mystic Naan,Indian,,,10.0,{},,,13.309000000000001
+253,Indian,https://www.doordash.com/store/bombay-seafood-grill-pittsburgh-23557928/,Bombay Seafood Grill,Indian,,,10.0,{},,,19.630000000000006
+254,Chinese,https://www.doordash.com/store/sichuan-gourmet-pittsburgh-248864/,Sichuan Gourmet,Chinese,,,1600.0,{},,,15.697100977198586
+255,Chinese,https://www.doordash.com/store/china-taste-chinese-food-pittsburgh-279386/,China Taste Chinese Food,Chinese,5.0,,2600.0,{},,,9.216666666666661
+256,Chinese,https://www.doordash.com/store/new-china-inn-pittsburgh-984359/,New China Inn,Chinese,,,530.0,{},,,9.805492424242422
+257,Chinese,https://www.doordash.com/store/green-pepper-pittsburgh-1349314/,GREEN PEPPER,Korean,,,280.0,{},,,18.204
+258,Chinese,https://www.doordash.com/store/red-dragon-pittsburgh-1107243/,Red Dragon,Chinese,,,1.0,{},,,12.773863636363643
+259,Chinese,https://www.doordash.com/store/fogo-de-ch%C3%A3o-pittsburgh-515012/,Fogo de Chão,Chicken,5.0,,262.0,{},,,30.42622950819672
+260,Chinese,https://www.doordash.com/store/ember-smoked-bbq-homestead-23447792/,Ember Smoked BBQ,Burgers,,,28.0,{},,,11.067567567567568
+261,Chinese,https://www.doordash.com/store/eleven-pittsburgh-1873377/,Eleven,Burgers,,,2.0,{},,,24.441176470588236
+262,Chinese,https://www.doordash.com/store/catering-by-sullivan%27s-steakhouse-pittsburgh-23362881/,Catering by Sullivan's Steakhouse,Steak,,,,,,,61.679245283018865
