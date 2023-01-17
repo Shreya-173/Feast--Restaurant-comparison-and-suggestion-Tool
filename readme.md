@@ -1,4 +1,4 @@
-## Feast System
+## Feast Tool
 Feast app provides restaurant’s information nearby CMU, allowing user to compare price and rating from multiple platforms. There are three main functions in the app, one is restaurant information system. The other is the calorie calculator. Last is a function that allows user to update the data source.
 
 ## 1. Environments check and Packages
