@@ -1,4 +1,3 @@
-# Credit to Ruifang Hu/ruifangh
 # update calorie information using web scraping method
 
 import requests
