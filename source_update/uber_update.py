@@ -1,4 +1,3 @@
-# Credit to Alan Chin/ychin
 # update restaurant list on uber using web scraping method
 import sys
 from bs4 import BeautifulSoup
