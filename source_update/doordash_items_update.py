@@ -1,4 +1,3 @@
-##credit to Shreya/ sshreya
 ##update menu items on doordash using web scraping method
 from urllib.request import Request,urlopen  # b_soup_1.py
 from bs4 import BeautifulSoup
