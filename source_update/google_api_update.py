@@ -1,4 +1,3 @@
-# Credit to Ryan King /rdking
 # import whatever you need
 
 import sys
