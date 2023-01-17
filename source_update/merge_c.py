@@ -1,4 +1,3 @@
-# Credit to Candice Chiang/wantienc & Ryan King /rdking
 # This file is where I will practice merging the data into one main dataframe
 # address seems to be the most natural identifier, so I will try to merge based on that.
 
