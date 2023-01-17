@@ -1,4 +1,3 @@
-# Credit to Candice Chiang/wantienc
 # update restaurant list on doordash using web scraping method
 import time
 from bs4 import BeautifulSoup
